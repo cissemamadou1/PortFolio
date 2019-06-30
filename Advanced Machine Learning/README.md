@@ -1,6 +1,6 @@
-Introduction to Deep Learning
+# Introduction to Deep Learning
 
-Modules
+## Modules
 
 1. Optimization
 2. Multilayer Perceptron and introduction to TensorFlow/Keras
